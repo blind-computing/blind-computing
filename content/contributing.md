@@ -1,5 +1,6 @@
 ---
 title: 'Contributing to Blind Computing'
+author: TheFake VIP
 date: 2020-04-14T18:24:37+01:00
 draft: false
 ---
