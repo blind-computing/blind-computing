@@ -21,7 +21,7 @@ the braille note.
 ## how to contribute
 
 Please see the [contributing
-page](<%7B%7B%20Route('contributing')%20%7D%7D>) for more information.
+page]({{% ref "contributing.md" %}}) for more information.
 
 ## Note on Browser Support
 
