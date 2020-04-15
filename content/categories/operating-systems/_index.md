@@ -3,6 +3,7 @@ title: 'Operating Systems'
 date: 2020-04-15T17:22:29+01:00
 draft: false
 menu: main
+weight: -80
 ---
 
 An operating system is a big program that run\'s your device, whether it

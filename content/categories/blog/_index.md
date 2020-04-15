@@ -2,7 +2,9 @@
 title: 'Blog'
 date: 2020-04-15T17:22:30+01:00
 draft: false
-menu: main
+menu:
+  main:
+    weight: -40
 noContent: No blog posts were found.
 ---
 

@@ -3,6 +3,7 @@ title: 'Home'
 date: 2020-04-14T17:49:17+01:00
 draft: true
 menu: main
+weight: -100
 ---
 
 ## What is Blind Computing?
