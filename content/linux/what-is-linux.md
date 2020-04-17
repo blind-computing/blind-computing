@@ -8,6 +8,7 @@ draft: false
 categories:
   - operating-systems
 tags: [linux, free, open-source, introduction, privacy]
+weight: 100
 ---
 
 If you're new round here, you're probably asking, at almost every page
