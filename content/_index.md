@@ -33,12 +33,3 @@ general, firefox is more accessible anyway.
 
 On a mac or iOS device, the built-in Safari browser seems to work fine
 as well. Chrome appears to be the second choice.
-
-{{< youtube tH9dlnxqtcU >}}
-
-## Latest News
-
-Stay up to date with the latest news from Blind Computing by
-[Visiting the blog](http://blind-computing.blogspot.com),
-[Following us on twitter](https://www.twitter.com/blind_comp) or
-[Joining our facebook group](https://www.facebook.com/groups/347355422340125/).
