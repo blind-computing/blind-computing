@@ -6,7 +6,8 @@ date: 2018-04-01T0:00:06+01:00
 lastmod: 2020-04-15T21:45:06+01:00
 draft: false
 categories:
-  - Operating Systems
+  - operating-systems
+tags: [linux, free, open-source, introduction, privacy]
 ---
 
 If you're new round here, you're probably asking, at almost every page
