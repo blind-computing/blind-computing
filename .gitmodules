@@ -1,3 +1,6 @@
 [submodule "static/dynamitab"]
 	path = static/dynamitab
 	url = https://gitlab.com/mcb2003/dynamitab.git
+[submodule "public/dynamitab"]
+	path = public/dynamitab
+	url = https://gitlab.com/mcb2003/dynamitab
