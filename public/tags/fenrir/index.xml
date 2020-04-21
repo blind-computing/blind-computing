@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>fenrir on Blind Computing</title>
+    <link>https://blindcomputing.org/tags/fenrir/</link>
+    <description>Recent content in fenrir on Blind Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Mon, 09 Apr 2018 22:13:01 +0100</lastBuildDate>
+    
+	<atom:link href="https://blindcomputing.org/tags/fenrir/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The State of Linux Command Line Accessibility</title>
+      <link>https://blindcomputing.org/linux/state-of-cli-accessibility/</link>
+      <pubDate>Mon, 09 Apr 2018 22:13:01 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/linux/state-of-cli-accessibility/</guid>
+      <description>In this article, we explore the options available when setting up a command-line-only Linux installation. From speakup to fenrir, there&amp;rsquo;s a lot to offer.</description>
+    </item>
+    
+  </channel>
+</rss>

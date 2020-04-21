@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Software Showcase on Blind Computing</title>
+    <link>https://blindcomputing.org/software-showcase/</link>
+    <description>Recent content in Software Showcase on Blind Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 18 Apr 2020 18:16:46 +0100</lastBuildDate>
+    
+	<atom:link href="https://blindcomputing.org/software-showcase/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The Webbie Web Browser and Accessible Applications</title>
+      <link>https://blindcomputing.org/software-showcase/webbie/</link>
+      <pubDate>Sat, 18 Apr 2020 18:24:11 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/software-showcase/webbie/</guid>
+      <description>This article is an overview of the Webbie web browser designed with accessibility in mind, as well as the suite of accessible applications that `accompany it.</description>
+    </item>
+    
+  </channel>
+</rss>

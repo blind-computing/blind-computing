@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Categories on Blind Computing</title>
+    <link>https://blindcomputing.org/categories/</link>
+    <description>Recent content in Categories on Blind Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 18 Apr 2020 18:24:11 +0100</lastBuildDate>
+    
+	<atom:link href="https://blindcomputing.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Devices</title>
+      <link>https://blindcomputing.org/categories/devices/</link>
+      <pubDate>Wed, 15 Apr 2020 17:22:29 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/categories/devices/</guid>
+      <description>Whether it&amp;rsquo;s braille notetakers, embossers, mainstream accessible gadgets or otherwise, this page covers a range of devices that can help out the blind and visually impaired. It includes thoughts, reviews, hand&amp;rsquo;s on, rambling and much more!</description>
+    </item>
+    
+    <item>
+      <title>Operating Systems</title>
+      <link>https://blindcomputing.org/categories/operating-systems/</link>
+      <pubDate>Wed, 15 Apr 2020 17:22:29 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/categories/operating-systems/</guid>
+      <description>An operating system is a big program that run&#39;s your device, whether it be a braille note taker, desktop, laptop or even a phone. Operating systems control the overall user interface as well as the underlying technologies that make today&#39;s computing world possible.
+There is an overwhelming amount of operating systems out there, from windows, to mac OS10 ... I mean macOS because apple changed the name, to the thousands of linux distributions, right the way down to mobile operating systems like IOS and android.</description>
+    </item>
+    
+    <item>
+      <title>Software</title>
+      <link>https://blindcomputing.org/categories/software/</link>
+      <pubDate>Wed, 15 Apr 2020 17:22:29 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/categories/software/</guid>
+      <description>It&#39;s all well and good having a good operating system, specifically chosen from our operating systems page, but what use is it without any software to help get your work done?
+This page covers a wide range of software programs, tools and utilities to give you, blind computer users, the most up to date information of program accessibility, or lack there of.</description>
+    </item>
+    
+    <item>
+      <title>Downloads</title>
+      <link>https://blindcomputing.org/categories/downloads/</link>
+      <pubDate>Wed, 15 Apr 2020 17:22:29 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/categories/downloads/</guid>
+      <description>This page includes links to both externally and internally developed scripts, programs, operating systems and any other files you can think of to help the blind and visually impaired throughout their computing journey.
+Note: Some of the software on this page was not created by the contributors of Blind Computing. All credit goes to the creaters and maintainers of the software. Also, all of the files below are to be used at you&#39;re own risk and we can not assume any responsibility if something goes wrong.</description>
+    </item>
+    
+    <item>
+      <title>Blog</title>
+      <link>https://blindcomputing.org/categories/blog/</link>
+      <pubDate>Wed, 15 Apr 2020 17:22:30 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/categories/blog/</guid>
+      <description>The main blind computing website has always been about giving blind and visually impaired computer users the most up to date information and tutorials we can, however, this poses the question, where do we get this information in the first place? That&#39;s what the Blind Computing Blog was created for. On it, we&#39;ll ask questions to the blind computing community, get answers via comments and talk about what we&#39;ve been up to lately.</description>
+    </item>
+    
+  </channel>
+</rss>

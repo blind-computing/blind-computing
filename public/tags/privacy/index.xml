@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>privacy on Blind Computing</title>
+    <link>https://blindcomputing.org/tags/privacy/</link>
+    <description>Recent content in privacy on Blind Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:06 +0100</lastBuildDate>
+    
+	<atom:link href="https://blindcomputing.org/tags/privacy/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Linux?</title>
+      <link>https://blindcomputing.org/linux/what-is-linux/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:06 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/linux/what-is-linux/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re new round here, you&amp;rsquo;re probably asking, at almost every page
+you visit, &amp;ldquo;What in the actual world is linux?&amp;rdquo; In this article, I hope
+to shed some light on Linux, its community and its philosophy.&lt;/p&gt;</description>
+    </item>
+    
+  </channel>
+</rss>

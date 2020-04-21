@@ -2,4 +2,169 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
+  <url>
+    <loc>https://blindcomputing.org/</loc>
+    <lastmod>2020-04-14T17:49:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/categories/devices/</loc>
+    <lastmod>2020-04-15T17:22:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/categories/operating-systems/</loc>
+    <lastmod>2020-04-15T17:22:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/categories/software/</loc>
+    <lastmod>2020-04-15T17:22:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/categories/downloads/</loc>
+    <lastmod>2020-04-15T17:22:29+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/linux/what-is-linux/</loc>
+    <lastmod>2020-04-15T21:45:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/categories/</loc>
+    <lastmod>2020-04-18T18:24:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/overview/</loc>
+    <lastmod>2020-04-18T18:24:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/</loc>
+    <lastmod>2020-04-18T18:24:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/software-showcase/webbie/</loc>
+    <lastmod>2020-04-18T18:24:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/web/</loc>
+    <lastmod>2020-04-18T18:24:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/windows/</loc>
+    <lastmod>2020-04-18T18:24:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/software-showcase/</loc>
+    <lastmod>2020-04-18T18:16:46+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/linux/</loc>
+    <lastmod>2020-04-15T21:23:50+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/categories/blog/</loc>
+    <lastmod>2020-04-15T17:22:30+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/contributing/</loc>
+    <lastmod>2020-04-14T18:24:37+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/cli/</loc>
+    <lastmod>2020-04-17T22:13:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/fenrir/</loc>
+    <lastmod>2020-04-17T22:13:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/linux/</loc>
+    <lastmod>2020-04-17T22:13:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/speakup/</loc>
+    <lastmod>2020-04-17T22:13:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/linux/state-of-cli-accessibility/</loc>
+    <lastmod>2020-04-17T22:13:01+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/free/</loc>
+    <lastmod>2020-04-15T21:45:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/introduction/</loc>
+    <lastmod>2020-04-15T21:45:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/open-source/</loc>
+    <lastmod>2020-04-15T21:45:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/privacy/</loc>
+    <lastmod>2020-04-15T21:45:06+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/accessibility/</loc>
+    <lastmod>2020-04-17T19:33:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/compiz/</loc>
+    <lastmod>2020-04-17T19:33:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/gnome/</loc>
+    <lastmod>2020-04-17T19:33:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/gui/</loc>
+    <lastmod>2020-04-17T19:33:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/mate/</loc>
+    <lastmod>2020-04-17T19:33:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/orca/</loc>
+    <lastmod>2020-04-17T19:33:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/linux/state-of-accessibility/</loc>
+    <lastmod>2020-04-17T19:33:17+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/xfce/</loc>
+    <lastmod>2020-04-17T19:33:17+01:00</lastmod>
+  </url>
+  
 </urlset>

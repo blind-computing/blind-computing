@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>xfce on Blind Computing</title>
+    <link>https://blindcomputing.org/tags/xfce/</link>
+    <description>Recent content in xfce on Blind Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sat, 09 Apr 2016 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://blindcomputing.org/tags/xfce/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>The State of Linux Accessibility</title>
+      <link>https://blindcomputing.org/linux/state-of-accessibility/</link>
+      <pubDate>Sat, 09 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/linux/state-of-accessibility/</guid>
+      <description>This article documents the state of Linux accessibility when using a graphical desktop. I try to keep this article as current as possible.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,7 +1,7 @@
 ---
 title: 'Home'
 date: 2020-04-14T17:49:17+01:00
-draft: true
+draft: false
 menu: main
 weight: -100
 ---

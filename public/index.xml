@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Home on Blind Computing</title>
+    <link>https://blindcomputing.org/</link>
+    <description>Recent content in Home on Blind Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Tue, 14 Apr 2020 17:49:17 +0100</lastBuildDate>
+    
+	<atom:link href="https://blindcomputing.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>What is Linux?</title>
+      <link>https://blindcomputing.org/linux/what-is-linux/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:06 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/linux/what-is-linux/</guid>
+      <description>&lt;p&gt;If you&amp;rsquo;re new round here, you&amp;rsquo;re probably asking, at almost every page
+you visit, &amp;ldquo;What in the actual world is linux?&amp;rdquo; In this article, I hope
+to shed some light on Linux, its community and its philosophy.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>The Webbie Web Browser and Accessible Applications</title>
+      <link>https://blindcomputing.org/software-showcase/webbie/</link>
+      <pubDate>Sat, 18 Apr 2020 18:24:11 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/software-showcase/webbie/</guid>
+      <description>This article is an overview of the Webbie web browser designed with accessibility in mind, as well as the suite of accessible applications that `accompany it.</description>
+    </item>
+    
+    <item>
+      <title>Contributing to Blind Computing</title>
+      <link>https://blindcomputing.org/contributing/</link>
+      <pubDate>Tue, 14 Apr 2020 18:24:37 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/contributing/</guid>
+      <description>Thanks for taking interest in this project and thanks even more for wanting to help out with it! Below are just some of the ways you can contribute to Blind Computing.
+Contributing Code Blind Computing is, has been and always will be an open source project. If you would like to help out, the code is available on Github. I would specifically advise you to read the readme file in order to get a better idea of how this project is developed.</description>
+    </item>
+    
+    <item>
+      <title>The State of Linux Command Line Accessibility</title>
+      <link>https://blindcomputing.org/linux/state-of-cli-accessibility/</link>
+      <pubDate>Mon, 09 Apr 2018 22:13:01 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/linux/state-of-cli-accessibility/</guid>
+      <description>In this article, we explore the options available when setting up a command-line-only Linux installation. From speakup to fenrir, there&amp;rsquo;s a lot to offer.</description>
+    </item>
+    
+    <item>
+      <title>The State of Linux Accessibility</title>
+      <link>https://blindcomputing.org/linux/state-of-accessibility/</link>
+      <pubDate>Sat, 09 Apr 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/linux/state-of-accessibility/</guid>
+      <description>This article documents the state of Linux accessibility when using a graphical desktop. I try to keep this article as current as possible.</description>
+    </item>
+    
+  </channel>
+</rss>
