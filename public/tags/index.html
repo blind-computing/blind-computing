@@ -9,7 +9,6 @@
 />
 
 
-<link href="/css/style.css" rel="stylesheet" />
 
 <link
   rel="stylesheet"
@@ -24,6 +23,9 @@
   integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay"
   crossorigin="anonymous"
 />
+
+
+<link href="/css/style.css" rel="stylesheet" />
 
 
 <script
@@ -46,67 +48,70 @@
   </head>
 
   <body class="text-left">
-    <header class="navcontainer navbar navbar-expand-sm bg-light">
-  
-  <img
+    <header>
+  <nav class="navbar navbar-expand-md navbar-light customnav">
+    
+        
+    <img
     src="/logo/horizontal.png"
     alt="Blind Computing"
     aria-label="Blind Computing Logo"
     class="nav-logo navbar-brand"
     title="Credit: @reallinfo on Github"
   />
-  
-  <button
-    class="navbar-toggler"
-    type="button"
-    data-toggle="collapse"
-    data-target=".navlinks"
-    aria-label="Toggle the
-        navigation bar"
-  >
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  
-  <ul class="navbar-nav nav navlinks" role="navigation">
-    <li class="nav-item">
-      <a href="/" class="nav-link">
-        Home
-      </a>
-    </li>
+
     
-    <li class="nav-item">
-      <a href="/categories/devices/" class="nav-link">
-        Devices
-      </a>
-    </li>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle Navigation">
+      <i class="fa fa-chevron-circle-down" aria-hidden="true"></i>
+    </button>
+
     
-    <li class="nav-item">
-      <a href="/categories/operating-systems/" class="nav-link">
-        Operating Systems
-      </a>
-    </li>
-    
-    <li class="nav-item">
-      <a href="/categories/software/" class="nav-link">
-        Software
-      </a>
-    </li>
-    
-    <li class="nav-item">
-      <a href="/categories/downloads/" class="nav-link">
-        Downloads
-      </a>
-    </li>
-    
-    <li class="nav-item">
-      <a href="/categories/blog/" class="nav-link">
-        Blog
-      </a>
-    </li>
-    </ul>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav nav navlinks customnav" role="navigation">
+        <li class="nav-item">
+          <a href="/" class="nav-link">
+            Home
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/categories/devices/" class="nav-link">
+            Devices
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/categories/operating-systems/" class="nav-link">
+            Operating Systems
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/categories/software/" class="nav-link">
+            Software
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/categories/downloads/" class="nav-link">
+            Downloads
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/categories/blog/" class="nav-link">
+            Blog
+          </a>
+        </li>
+        </ul>
+
+    </div>
+
+
+  </nav>
 </header>
 
-    <main class="container-fluid">
+    <main class="container-fluid content">
       
 <h1>Tags</h1>
 
@@ -114,314 +119,314 @@
 
 <section class="card-deck" aria-label="Articles in This Section">
    <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">overview</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">overview</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/overview/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">web</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">web</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/web/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">windows</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">windows</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/windows/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">cli</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">cli</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/cli/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">fenrir</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">fenrir</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/fenrir/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">Linux</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">Linux</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/linux/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">speakup</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">speakup</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/speakup/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">free</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">free</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/free/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">introduction</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">introduction</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/introduction/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">open-source</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">open-source</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/open-source/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">privacy</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">privacy</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/privacy/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">braille</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">braille</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/braille/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">braillenote</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">braillenote</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/braillenote/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">comparison</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">comparison</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/comparison/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">eurobraille</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">eurobraille</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/eurobraille/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">humanware</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">humanware</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/humanware/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">notetakers</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">notetakers</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/notetakers/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">accessibility</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">accessibility</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/accessibility/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">compiz</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">compiz</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/compiz/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">gnome</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">gnome</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/gnome/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">gui</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">gui</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/gui/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">mate</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">mate</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/mate/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">orca</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">orca</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/orca/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">xfce</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">xfce</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text"></p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/tags/xfce/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
