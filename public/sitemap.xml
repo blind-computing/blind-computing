@@ -33,8 +33,18 @@
   </url>
   
   <url>
+    <loc>https://blindcomputing.org/apple/</loc>
+    <lastmod>2020-05-29T19:49:26+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/device-comparisons/</loc>
+    <lastmod>2020-04-22T23:19:18+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blindcomputing.org/categories/</loc>
-    <lastmod>2020-04-18T18:24:11+01:00</lastmod>
+    <lastmod>2020-05-29T19:38:15+01:00</lastmod>
   </url>
   
   <url>
@@ -44,7 +54,7 @@
   
   <url>
     <loc>https://blindcomputing.org/tags/</loc>
-    <lastmod>2020-04-18T18:24:11+01:00</lastmod>
+    <lastmod>2020-05-29T19:38:15+01:00</lastmod>
   </url>
   
   <url>
@@ -83,17 +93,122 @@
   </url>
   
   <url>
+    <loc>https://blindcomputing.org/tags/accessibility/</loc>
+    <lastmod>2020-05-29T18:57:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/debian/</loc>
+    <lastmod>2020-05-29T18:57:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/linux/debian-9-stretch-xfce/</loc>
+    <lastmod>2020-05-29T18:57:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/linux/</loc>
+    <lastmod>2020-05-29T19:13:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/orca/</loc>
+    <lastmod>2020-05-29T18:57:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/review/</loc>
+    <lastmod>2020-05-29T18:57:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/xfce/</loc>
+    <lastmod>2020-05-29T18:57:33+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/linux/managing-multiple-monitors/</loc>
+    <lastmod>2020-05-29T19:13:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/mate/</loc>
+    <lastmod>2020-05-29T19:13:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/multi-monitor/</loc>
+    <lastmod>2020-05-29T19:13:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/x11/</loc>
+    <lastmod>2020-05-29T19:13:14+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/apple/</loc>
+    <lastmod>2020-05-29T19:38:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/ios/</loc>
+    <lastmod>2020-05-29T19:38:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/apple/ios-12-navigation-gestures-with-voiceover/</loc>
+    <lastmod>2020-05-29T19:38:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/voiceover/</loc>
+    <lastmod>2020-05-29T19:38:15+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/app/</loc>
+    <lastmod>2018-07-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/chat/</loc>
+    <lastmod>2018-07-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/community/</loc>
+    <lastmod>2018-07-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/software-showcase/discord/</loc>
+    <lastmod>2018-07-27T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/compiz/</loc>
+    <lastmod>2020-05-29T17:14:38+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/ubuntu/</loc>
+    <lastmod>2020-05-29T17:51:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/linux/ubuntu-mate-18.04/</loc>
+    <lastmod>2020-05-29T17:14:38+01:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blindcomputing.org/tags/cli/</loc>
     <lastmod>2020-04-17T22:13:01+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://blindcomputing.org/tags/fenrir/</loc>
-    <lastmod>2020-04-17T22:13:01+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blindcomputing.org/tags/linux/</loc>
     <lastmod>2020-04-17T22:13:01+01:00</lastmod>
   </url>
   
@@ -128,18 +243,68 @@
   </url>
   
   <url>
-    <loc>https://blindcomputing.org/tags/accessibility/</loc>
-    <lastmod>2020-04-17T19:33:17+01:00</lastmod>
+    <loc>https://blindcomputing.org/tags/braille/</loc>
+    <lastmod>2020-04-22T23:18:00+01:00</lastmod>
   </url>
   
   <url>
-    <loc>https://blindcomputing.org/tags/compiz/</loc>
-    <lastmod>2020-04-17T19:33:17+01:00</lastmod>
+    <loc>https://blindcomputing.org/tags/braillenote/</loc>
+    <lastmod>2020-04-22T23:18:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/device-comparisons/braillenote-touch-vs-esytime-before-hands-on/</loc>
+    <lastmod>2018-04-01T00:00:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/device-comparisons/braillenote-touch-vs-esytime-after-hands-on/</loc>
+    <lastmod>2020-04-22T23:18:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/comparison/</loc>
+    <lastmod>2020-04-22T23:18:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/eurobraille/</loc>
+    <lastmod>2020-04-22T23:18:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/humanware/</loc>
+    <lastmod>2020-04-22T23:18:00+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/notetakers/</loc>
+    <lastmod>2020-04-22T23:18:00+01:00</lastmod>
   </url>
   
   <url>
     <loc>https://blindcomputing.org/tags/gnome/</loc>
-    <lastmod>2020-04-17T19:33:17+01:00</lastmod>
+    <lastmod>2020-05-29T17:51:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/linux/ubuntu-17.10/</loc>
+    <lastmod>2020-05-29T17:51:11+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/macos/</loc>
+    <lastmod>2020-05-29T18:08:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/apple/mac-os-10.12-sierra/</loc>
+    <lastmod>2020-05-29T18:08:32+01:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/linux/ubuntu-mate-16.04/</loc>
+    <lastmod>2020-05-29T17:02:11+01:00</lastmod>
   </url>
   
   <url>
@@ -148,22 +313,7 @@
   </url>
   
   <url>
-    <loc>https://blindcomputing.org/tags/mate/</loc>
-    <lastmod>2020-04-17T19:33:17+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blindcomputing.org/tags/orca/</loc>
-    <lastmod>2020-04-17T19:33:17+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blindcomputing.org/linux/state-of-accessibility/</loc>
-    <lastmod>2020-04-17T19:33:17+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blindcomputing.org/tags/xfce/</loc>
     <lastmod>2020-04-17T19:33:17+01:00</lastmod>
   </url>
   

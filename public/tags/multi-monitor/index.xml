@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>multi-monitor on Blind Computing</title>
+    <link>https://blindcomputing.org/tags/multi-monitor/</link>
+    <description>Recent content in multi-monitor on Blind Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://blindcomputing.org/tags/multi-monitor/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Managing Multiple Monitors in Linux - No Sight Required</title>
+      <link>https://blindcomputing.org/linux/managing-multiple-monitors/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/linux/managing-multiple-monitors/</guid>
+      <description>A video explaining how to lay out and configure multiple monitors in Linux, without needing sight.</description>
+    </item>
+    
+  </channel>
+</rss>

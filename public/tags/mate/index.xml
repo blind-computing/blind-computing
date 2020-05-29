@@ -6,10 +6,41 @@
     <description>Recent content in mate on Blind Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 09 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Fri, 28 Jun 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://blindcomputing.org/tags/mate/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Managing Multiple Monitors in Linux - No Sight Required</title>
+      <link>https://blindcomputing.org/linux/managing-multiple-monitors/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/linux/managing-multiple-monitors/</guid>
+      <description>A video explaining how to lay out and configure multiple monitors in Linux, without needing sight.</description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Mate 18.04 Accessibility Review</title>
+      <link>https://blindcomputing.org/linux/ubuntu-mate-18.04/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/linux/ubuntu-mate-18.04/</guid>
+      <description>It was the video that kickstarted my youtube channel! My review of ubuntu mate 16.04 went down like a storm, becoming one of the most popular videos on my channel. But what about its Long Term Support successor? In this video, I take a look at the beta release of Ubuntu Mate 18.04 LTS.
+  </description>
+    </item>
+    
+    <item>
+      <title>Ubuntu Mate 16.04 Accessibility Review</title>
+      <link>https://blindcomputing.org/linux/ubuntu-mate-16.04/</link>
+      <pubDate>Wed, 12 Oct 2016 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/linux/ubuntu-mate-16.04/</guid>
+      <description>Ubuntu mate is quickly growing to be a well respected, clean, easy to use linux distrobution.It has the latest features, the coolest software and the best desktop interface (in my opinion), but does it have the accessibility features that blind/vi people need out of an operating system?
+Actually, the answer looks very promising
+here&amp;rsquo;s a quick video showing the accessibility features of ubuntu mate 16.04 lts.
+  </description>
+    </item>
     
     <item>
       <title>The State of Linux Accessibility</title>

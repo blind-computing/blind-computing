@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>macOS on Blind Computing</title>
+    <link>https://blindcomputing.org/tags/macos/</link>
+    <description>Recent content in macOS on Blind Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 28 May 2017 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://blindcomputing.org/tags/macos/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>MacOS 10.12 Sierra Accessibility Review</title>
+      <link>https://blindcomputing.org/apple/mac-os-10.12-sierra/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/apple/mac-os-10.12-sierra/</guid>
+      <description>Lots of blind and visually impaired people already know that apple has been designing their products with amazing accessibility built right in, ever since 2005 when mac os 10.4 tiger was released and the feature set has continued to grow over the years. But for those who aren&amp;rsquo;t up to speed, or who are looking to buy a mac but not sure if they can justify the extortionate price tag, this video will show you the main accessibility features of macOS I use and why I prefer Apple&amp;rsquo;s VoiceOver screenreader over any other.</description>
+    </item>
+    
+  </channel>
+</rss>

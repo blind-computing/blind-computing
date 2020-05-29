@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>humanware on Blind Computing</title>
+    <link>https://blindcomputing.org/tags/humanware/</link>
+    <description>Recent content in humanware on Blind Computing</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0100</lastBuildDate>
+    
+	<atom:link href="https://blindcomputing.org/tags/humanware/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Braillenote Touch vs Esytime - Part 1</title>
+      <link>https://blindcomputing.org/device-comparisons/braillenote-touch-vs-esytime-before-hands-on/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/device-comparisons/braillenote-touch-vs-esytime-before-hands-on/</guid>
+      <description>A comparison (before hands-on) between Humanware&amp;rsquo;s Braillenote Touch and Eurobraille&amp;rsquo;s Esytime. Originally personal notes I created.</description>
+    </item>
+    
+    <item>
+      <title>Braillenote Touch vs Esytime - Part 2</title>
+      <link>https://blindcomputing.org/device-comparisons/braillenote-touch-vs-esytime-after-hands-on/</link>
+      <pubDate>Sun, 01 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/device-comparisons/braillenote-touch-vs-esytime-after-hands-on/</guid>
+      <description>A comparison (after hands-on) between Humanware&amp;rsquo;s Braillenote Touch and Eurobraille&amp;rsquo;s Esytime. This is the second article in a two part series.</description>
+    </item>
+    
+  </channel>
+</rss>

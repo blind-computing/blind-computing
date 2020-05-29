@@ -6,10 +6,24 @@
     <description>Recent content in xfce on Blind Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 09 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://blindcomputing.org/tags/xfce/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Debian 9 Stretch With XFCE - Accessibility Review</title>
+      <link>https://blindcomputing.org/linux/debian-9-stretch-xfce/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/linux/debian-9-stretch-xfce/</guid>
+      <description>&lt;p&gt;As noted in my
+&lt;a href=&#34;https://blindcomputing.org/linux/state-of-accessibility/&#34;&gt;overview of Linux accessibility&lt;/a&gt;,
+Debian has, for quite some
+time now, been a very good choice for a blind user looking to get into
+Linux. It offers a speech and braille enabled installer and automatically
+sets up any necessary accessibility settings if they&amp;rsquo;re available,&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>The State of Linux Accessibility</title>
