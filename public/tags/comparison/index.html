@@ -9,7 +9,6 @@
 />
 
 
-<link href="/css/style.css" rel="stylesheet" />
 
 <link
   rel="stylesheet"
@@ -24,6 +23,9 @@
   integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay"
   crossorigin="anonymous"
 />
+
+
+<link href="/css/style.css" rel="stylesheet" />
 
 
 <script
@@ -46,96 +48,99 @@
   </head>
 
   <body class="text-left">
-    <header class="navcontainer navbar navbar-expand-sm bg-light">
-  
-  <img
+    <header>
+  <nav class="navbar navbar-expand-md navbar-light customnav">
+    
+        
+    <img
     src="/logo/horizontal.png"
     alt="Blind Computing"
     aria-label="Blind Computing Logo"
     class="nav-logo navbar-brand"
     title="Credit: @reallinfo on Github"
   />
-  
-  <button
-    class="navbar-toggler"
-    type="button"
-    data-toggle="collapse"
-    data-target=".navlinks"
-    aria-label="Toggle the
-        navigation bar"
-  >
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  
-  <ul class="navbar-nav nav navlinks" role="navigation">
-    <li class="nav-item">
-      <a href="/" class="nav-link">
-        Home
-      </a>
-    </li>
+
     
-    <li class="nav-item">
-      <a href="/categories/devices/" class="nav-link">
-        Devices
-      </a>
-    </li>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle Navigation">
+      <i class="fa fa-chevron-circle-down" aria-hidden="true"></i>
+    </button>
+
     
-    <li class="nav-item">
-      <a href="/categories/operating-systems/" class="nav-link">
-        Operating Systems
-      </a>
-    </li>
-    
-    <li class="nav-item">
-      <a href="/categories/software/" class="nav-link">
-        Software
-      </a>
-    </li>
-    
-    <li class="nav-item">
-      <a href="/categories/downloads/" class="nav-link">
-        Downloads
-      </a>
-    </li>
-    
-    <li class="nav-item">
-      <a href="/categories/blog/" class="nav-link">
-        Blog
-      </a>
-    </li>
-    </ul>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav nav navlinks customnav" role="navigation">
+        <li class="nav-item">
+          <a href="/" class="nav-link">
+            Home
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/categories/devices/" class="nav-link">
+            Devices
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/categories/operating-systems/" class="nav-link">
+            Operating Systems
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/categories/software/" class="nav-link">
+            Software
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/categories/downloads/" class="nav-link">
+            Downloads
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/categories/blog/" class="nav-link">
+            Blog
+          </a>
+        </li>
+        </ul>
+
+    </div>
+
+
+  </nav>
 </header>
 
-    <main class="container-fluid">
+    <main class="container-fluid content">
       
-<h1>comparison</h1>
+<h1 class="sr-only">comparison</h1>
 
 <hr />
 
 <section class="card-deck" aria-label="Articles in This Section">
    <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">Braillenote Touch vs Esytime - Part 1</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">Braillenote Touch vs Esytime - Part 1</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text">A comparison (before hands-on) between Humanware&rsquo;s Braillenote Touch and Eurobraille&rsquo;s Esytime. Originally personal notes I created.</p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/device-comparisons/braillenote-touch-vs-esytime-before-hands-on/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">Braillenote Touch vs Esytime - Part 2</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">Braillenote Touch vs Esytime - Part 2</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text">A comparison (after hands-on) between Humanware&rsquo;s Braillenote Touch and Eurobraille&rsquo;s Esytime. This is the second article in a two part series.</p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/device-comparisons/braillenote-touch-vs-esytime-after-hands-on/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>

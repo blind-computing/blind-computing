@@ -6,10 +6,20 @@
     <description>Recent content in gnome on Blind Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
-    <lastBuildDate>Sat, 09 Apr 2016 00:00:00 +0100</lastBuildDate>
+    <lastBuildDate>Sat, 21 Oct 2017 00:00:00 +0100</lastBuildDate>
     
 	<atom:link href="https://blindcomputing.org/tags/gnome/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Ubuntu 17.10 Accessibility Review</title>
+      <link>https://blindcomputing.org/linux/ubuntu-17.10/</link>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/linux/ubuntu-17.10/</guid>
+      <description>It was the talk of the town when it came out! The new vision of Canonical, releasing there latest version of ubuntu (17.10) with &amp;hellip; the Gnome desktop? Running using wayland? Anyway, since this is a rather big change, we&amp;rsquo;ll go over the accessibility features of this new release so that anyone upgrading to 17.10, or to 18.04 when it comes out, will have a smooth transition.
+  </description>
+    </item>
     
     <item>
       <title>The State of Linux Accessibility</title>

@@ -9,7 +9,6 @@
 />
 
 
-<link href="/css/style.css" rel="stylesheet" />
 
 <link
   rel="stylesheet"
@@ -24,6 +23,9 @@
   integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay"
   crossorigin="anonymous"
 />
+
+
+<link href="/css/style.css" rel="stylesheet" />
 
 
 <script
@@ -46,138 +48,141 @@
   </head>
 
   <body class="text-left">
-    <header class="navcontainer navbar navbar-expand-sm bg-light">
-  
-  <img
+    <header>
+  <nav class="navbar navbar-expand-md navbar-light customnav">
+    
+        
+    <img
     src="/logo/horizontal.png"
     alt="Blind Computing"
     aria-label="Blind Computing Logo"
     class="nav-logo navbar-brand"
     title="Credit: @reallinfo on Github"
   />
-  
-  <button
-    class="navbar-toggler"
-    type="button"
-    data-toggle="collapse"
-    data-target=".navlinks"
-    aria-label="Toggle the
-        navigation bar"
-  >
-    <span class="navbar-toggler-icon"></span>
-  </button>
-  
-  <ul class="navbar-nav nav navlinks" role="navigation">
-    <li class="nav-item">
-      <a href="/" class="nav-link">
-        Home
-      </a>
-    </li>
+
     
-    <li class="nav-item">
-      <a href="/categories/devices/" class="nav-link">
-        Devices
-      </a>
-    </li>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle Navigation">
+      <i class="fa fa-chevron-circle-down" aria-hidden="true"></i>
+    </button>
+
     
-    <li class="nav-item">
-      <a href="/categories/operating-systems/" class="nav-link">
-        Operating Systems
-      </a>
-    </li>
-    
-    <li class="nav-item">
-      <a href="/categories/software/" class="nav-link">
-        Software
-      </a>
-    </li>
-    
-    <li class="nav-item">
-      <a href="/categories/downloads/" class="nav-link">
-        Downloads
-      </a>
-    </li>
-    
-    <li class="nav-item">
-      <a href="/categories/blog/" class="nav-link">
-        Blog
-      </a>
-    </li>
-    </ul>
+    <div class="collapse navbar-collapse" id="navbarNav">
+      <ul class="navbar-nav nav navlinks customnav" role="navigation">
+        <li class="nav-item">
+          <a href="/" class="nav-link">
+            Home
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/categories/devices/" class="nav-link">
+            Devices
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/categories/operating-systems/" class="nav-link">
+            Operating Systems
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/categories/software/" class="nav-link">
+            Software
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/categories/downloads/" class="nav-link">
+            Downloads
+          </a>
+        </li>
+        
+        <li class="nav-item">
+          <a href="/categories/blog/" class="nav-link">
+            Blog
+          </a>
+        </li>
+        </ul>
+
+    </div>
+
+
+  </nav>
 </header>
 
-    <main class="container-fluid">
+    <main class="container-fluid content">
       
-<h1>Categories</h1>
+<h1 class="sr-only">Categories</h1>
 
 <hr />
 
 <section class="card-deck" aria-label="Articles in This Section">
    <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">Devices</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">Devices</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text">Whether it&rsquo;s braille notetakers, embossers, mainstream accessible gadgets or otherwise, this page covers a range of devices that can help out the blind and visually impaired. It includes thoughts, reviews, hand&rsquo;s on, rambling and much more!</p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/categories/devices/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">Operating Systems</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">Operating Systems</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text">An operating system is a big program that run's your device, whether it be a braille note taker, desktop, laptop or even a phone. Operating systems control the overall user interface as well as the underlying technologies that make today's computing world possible.
 There is an overwhelming amount of operating systems out there, from windows, to mac OS10 ... I mean macOS because apple changed the name, to the thousands of linux distributions, right the way down to mobile operating systems like IOS and android.</p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/categories/operating-systems/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">Software</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">Software</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text">It's all well and good having a good operating system, specifically chosen from our operating systems page, but what use is it without any software to help get your work done?
 This page covers a wide range of software programs, tools and utilities to give you, blind computer users, the most up to date information of program accessibility, or lack there of.</p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/categories/software/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">Downloads</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">Downloads</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text">This page includes links to both externally and internally developed scripts, programs, operating systems and any other files you can think of to help the blind and visually impaired throughout their computing journey.
 Note: Some of the software on this page was not created by the contributors of Blind Computing. All credit goes to the creaters and maintainers of the software. Also, all of the files below are to be used at you're own risk and we can not assume any responsibility if something goes wrong.</p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/categories/downloads/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>
   <div class="card">
-  <div class="card-header">
-    <h3 class="card-title">Blog</h3>
+  <div class="card-header customcard">
+    <h3 class="card-title customcard">Blog</h3>
   </div>
-  <div class="card-body">
+  <div class="card-body customcard">
     <p class="card-text">The main blind computing website has always been about giving blind and visually impaired computer users the most up to date information and tutorials we can, however, this poses the question, where do we get this information in the first place? That's what the Blind Computing Blog was created for. On it, we'll ask questions to the blind computing community, get answers via comments and talk about what we've been up to lately.</p>
   </div>
-  <div class="card-footer">
+  <div class="card-footer customcard">
     <a class="btn btn-primary stretched-link" href="https://blindcomputing.org/categories/blog/"
-      >View Article</a
+      ><span class="cardspan">View Article</span></a
     >
   </div>
 </div>

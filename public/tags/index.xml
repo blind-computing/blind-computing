@@ -39,6 +39,159 @@
     </item>
     
     <item>
+      <title>accessibility</title>
+      <link>https://blindcomputing.org/tags/accessibility/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/accessibility/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>debian</title>
+      <link>https://blindcomputing.org/tags/debian/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/debian/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>https://blindcomputing.org/tags/linux/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>orca</title>
+      <link>https://blindcomputing.org/tags/orca/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/orca/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>review</title>
+      <link>https://blindcomputing.org/tags/review/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>xfce</title>
+      <link>https://blindcomputing.org/tags/xfce/</link>
+      <pubDate>Tue, 02 Jul 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/xfce/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>mate</title>
+      <link>https://blindcomputing.org/tags/mate/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/mate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>multi-monitor</title>
+      <link>https://blindcomputing.org/tags/multi-monitor/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/multi-monitor/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>x11</title>
+      <link>https://blindcomputing.org/tags/x11/</link>
+      <pubDate>Fri, 28 Jun 2019 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/x11/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Apple</title>
+      <link>https://blindcomputing.org/tags/apple/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/apple/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>iOS</title>
+      <link>https://blindcomputing.org/tags/ios/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/ios/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>VoiceOver</title>
+      <link>https://blindcomputing.org/tags/voiceover/</link>
+      <pubDate>Fri, 21 Sep 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/voiceover/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>app</title>
+      <link>https://blindcomputing.org/tags/app/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/app/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>chat</title>
+      <link>https://blindcomputing.org/tags/chat/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/chat/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>community</title>
+      <link>https://blindcomputing.org/tags/community/</link>
+      <pubDate>Fri, 27 Jul 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/community/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>compiz</title>
+      <link>https://blindcomputing.org/tags/compiz/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/compiz/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://blindcomputing.org/tags/ubuntu/</link>
+      <pubDate>Thu, 12 Apr 2018 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>cli</title>
       <link>https://blindcomputing.org/tags/cli/</link>
       <pubDate>Mon, 09 Apr 2018 22:13:01 +0100</pubDate>
@@ -53,15 +206,6 @@
       <pubDate>Mon, 09 Apr 2018 22:13:01 +0100</pubDate>
       
       <guid>https://blindcomputing.org/tags/fenrir/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>https://blindcomputing.org/tags/linux/</link>
-      <pubDate>Mon, 09 Apr 2018 22:13:01 +0100</pubDate>
-      
-      <guid>https://blindcomputing.org/tags/linux/</guid>
       <description></description>
     </item>
     
@@ -165,29 +309,20 @@
     </item>
     
     <item>
-      <title>accessibility</title>
-      <link>https://blindcomputing.org/tags/accessibility/</link>
-      <pubDate>Sat, 09 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://blindcomputing.org/tags/accessibility/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>compiz</title>
-      <link>https://blindcomputing.org/tags/compiz/</link>
-      <pubDate>Sat, 09 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://blindcomputing.org/tags/compiz/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>gnome</title>
       <link>https://blindcomputing.org/tags/gnome/</link>
-      <pubDate>Sat, 09 Apr 2016 00:00:00 +0100</pubDate>
+      <pubDate>Sat, 21 Oct 2017 00:00:00 +0100</pubDate>
       
       <guid>https://blindcomputing.org/tags/gnome/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>macOS</title>
+      <link>https://blindcomputing.org/tags/macos/</link>
+      <pubDate>Sun, 28 May 2017 00:00:00 +0100</pubDate>
+      
+      <guid>https://blindcomputing.org/tags/macos/</guid>
       <description></description>
     </item>
     
@@ -197,33 +332,6 @@
       <pubDate>Sat, 09 Apr 2016 00:00:00 +0100</pubDate>
       
       <guid>https://blindcomputing.org/tags/gui/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>mate</title>
-      <link>https://blindcomputing.org/tags/mate/</link>
-      <pubDate>Sat, 09 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://blindcomputing.org/tags/mate/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>orca</title>
-      <link>https://blindcomputing.org/tags/orca/</link>
-      <pubDate>Sat, 09 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://blindcomputing.org/tags/orca/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>xfce</title>
-      <link>https://blindcomputing.org/tags/xfce/</link>
-      <pubDate>Sat, 09 Apr 2016 00:00:00 +0100</pubDate>
-      
-      <guid>https://blindcomputing.org/tags/xfce/</guid>
       <description></description>
     </item>
     
