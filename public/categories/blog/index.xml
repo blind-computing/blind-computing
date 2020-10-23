@@ -6,6 +6,7 @@
     <description>Recent content in Blog on Blind Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
+    <copyright>Copyright © 2020 the Blind Computing Team. This project is licensed under the GNU AGPL, version 3.0 or later.</copyright>
     <lastBuildDate>Wed, 15 Apr 2020 17:22:30 +0100</lastBuildDate>
     
 	<atom:link href="https://blindcomputing.org/categories/blog/index.xml" rel="self" type="application/rss+xml" />
