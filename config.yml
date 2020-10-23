@@ -1,6 +1,7 @@
 baseURL: https://blindcomputing.org/
 languageCode: en-gb
 title: Blind Computing
+copyright: Copyright © 2020 the Blind Computing Team. This project is licensed under the GNU AGPL, version 3.0 or later.
 disqusShortname: blind-computing
 
 outputs:
