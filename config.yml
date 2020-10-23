@@ -3,5 +3,15 @@ languageCode: en-gb
 title: Blind Computing
 disqusShortname: blind-computing
 
+outputs:
+  home:
+  - HTML
+  - Sitemap
+  - RSS
+  - AMP
+  page:
+  - HTML
+  - AMP
+
 imaging:
   bgColor: #ffffff
