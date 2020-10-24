@@ -3,15 +3,18 @@
   <channel>
     <title>Home on Blind Computing</title>
     <link>https://blindcomputing.org/</link>
+    <image>
+        <url>/logo/logomark.png</url>
+        <title>Blind Computing</title>
+        <link>https://blindcomputing.org/</link>
+        <width>113</width>
+        <height>113</height>
+    </image>
     <description>Recent content in Home on Blind Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright © 2020 the Blind Computing Team. This project is licensed under the GNU AGPL, version 3.0 or later.</copyright>
-    <lastBuildDate>Tue, 14 Apr 2020 17:49:17 +0100</lastBuildDate>
-    
-	<atom:link href="https://blindcomputing.org/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Tue, 14 Apr 2020 17:49:17 +0100</lastBuildDate><atom:link href="https://blindcomputing.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Linux?</title>
       <link>https://blindcomputing.org/linux/what-is-linux/</link>
@@ -21,6 +24,13 @@
       <description>&lt;p&gt;If you&amp;rsquo;re new round here, you&amp;rsquo;re probably asking, at almost every page
 you visit, &amp;ldquo;What in the actual world is linux?&amp;rdquo; In this article, I hope
 to shed some light on Linux, its community and its philosophy.&lt;/p&gt;</description>
+      <category>linux</category>
+      <category domain="https://blindcomputing.org/categories">operating-systems</category>
+      <category domain="https://blindcomputing.org/tags">free</category>
+      <category domain="https://blindcomputing.org/tags">introduction</category>
+      <category domain="https://blindcomputing.org/tags">linux</category>
+      <category domain="https://blindcomputing.org/tags">open-source</category>
+      <category domain="https://blindcomputing.org/tags">privacy</category>
     </item>
     
     <item>
@@ -30,6 +40,11 @@ to shed some light on Linux, its community and its philosophy.&lt;/p&gt;</descri
       
       <guid>https://blindcomputing.org/software-showcase/webbie/</guid>
       <description>This article is an overview of the Webbie web browser designed with accessibility in mind, as well as the suite of accessible applications that `accompany it.</description>
+      <category>software-showcase</category>
+      <category domain="https://blindcomputing.org/categories">software</category>
+      <category domain="https://blindcomputing.org/tags">overview</category>
+      <category domain="https://blindcomputing.org/tags">web</category>
+      <category domain="https://blindcomputing.org/tags">windows</category>
     </item>
     
     <item>
@@ -54,6 +69,14 @@ Debian has, for quite some
 time now, been a very good choice for a blind user looking to get into
 Linux. It offers a speech and braille enabled installer and automatically
 sets up any necessary accessibility settings if they&amp;rsquo;re available,&lt;/p&gt;</description>
+      <category>linux</category>
+      <category domain="https://blindcomputing.org/categories">operating-systems</category>
+      <category domain="https://blindcomputing.org/tags">accessibility</category>
+      <category domain="https://blindcomputing.org/tags">debian</category>
+      <category domain="https://blindcomputing.org/tags">Linux</category>
+      <category domain="https://blindcomputing.org/tags">orca</category>
+      <category domain="https://blindcomputing.org/tags">review</category>
+      <category domain="https://blindcomputing.org/tags">xfce</category>
     </item>
     
     <item>
@@ -63,6 +86,12 @@ sets up any necessary accessibility settings if they&amp;rsquo;re available,&lt;
       
       <guid>https://blindcomputing.org/linux/managing-multiple-monitors/</guid>
       <description>A video explaining how to lay out and configure multiple monitors in Linux, without needing sight.</description>
+      <category>linux</category>
+      <category domain="https://blindcomputing.org/categories">operating-systems</category>
+      <category domain="https://blindcomputing.org/tags">Linux</category>
+      <category domain="https://blindcomputing.org/tags">mate</category>
+      <category domain="https://blindcomputing.org/tags">multi-monitor</category>
+      <category domain="https://blindcomputing.org/tags">x11</category>
     </item>
     
     <item>
@@ -73,6 +102,11 @@ sets up any necessary accessibility settings if they&amp;rsquo;re available,&lt;
       <guid>https://blindcomputing.org/apple/ios-12-navigation-gestures-with-voiceover/</guid>
       <description>With iOS 12 came a new way to navigate the operating system&amp;rsquo;s interface with VoiceOver on the iPad. This video explains the new gestures and how to use them.
   </description>
+      <category>apple</category>
+      <category domain="https://blindcomputing.org/categories">operating-systems</category>
+      <category domain="https://blindcomputing.org/tags">Apple</category>
+      <category domain="https://blindcomputing.org/tags">iOS</category>
+      <category domain="https://blindcomputing.org/tags">VoiceOver</category>
     </item>
     
     <item>
@@ -84,6 +118,12 @@ sets up any necessary accessibility settings if they&amp;rsquo;re available,&lt;
       <description>&lt;p&gt;Discord is a rapidly growing chat platform. It is designed with gamers
 in mind, but now almost every online community seems to have a discord
 server,&lt;/p&gt;</description>
+      <category>software-showcase</category>
+      <category domain="https://blindcomputing.org/categories">software</category>
+      <category domain="https://blindcomputing.org/tags">app</category>
+      <category domain="https://blindcomputing.org/tags">chat</category>
+      <category domain="https://blindcomputing.org/tags">community</category>
+      <category domain="https://blindcomputing.org/tags">review</category>
     </item>
     
     <item>
@@ -94,6 +134,15 @@ server,&lt;/p&gt;</description>
       <guid>https://blindcomputing.org/linux/ubuntu-mate-18.04/</guid>
       <description>It was the video that kickstarted my youtube channel! My review of ubuntu mate 16.04 went down like a storm, becoming one of the most popular videos on my channel. But what about its Long Term Support successor? In this video, I take a look at the beta release of Ubuntu Mate 18.04 LTS.
   </description>
+      <category>linux</category>
+      <category domain="https://blindcomputing.org/categories">operating-systems</category>
+      <category domain="https://blindcomputing.org/tags">accessibility</category>
+      <category domain="https://blindcomputing.org/tags">compiz</category>
+      <category domain="https://blindcomputing.org/tags">Linux</category>
+      <category domain="https://blindcomputing.org/tags">mate</category>
+      <category domain="https://blindcomputing.org/tags">orca</category>
+      <category domain="https://blindcomputing.org/tags">review</category>
+      <category domain="https://blindcomputing.org/tags">ubuntu</category>
     </item>
     
     <item>
@@ -103,6 +152,12 @@ server,&lt;/p&gt;</description>
       
       <guid>https://blindcomputing.org/linux/state-of-cli-accessibility/</guid>
       <description>In this article, we explore the options available when setting up a command-line-only Linux installation. From speakup to fenrir, there&amp;rsquo;s a lot to offer.</description>
+      <category>linux</category>
+      <category domain="https://blindcomputing.org/categories">operating-systems</category>
+      <category domain="https://blindcomputing.org/tags">cli</category>
+      <category domain="https://blindcomputing.org/tags">fenrir</category>
+      <category domain="https://blindcomputing.org/tags">linux</category>
+      <category domain="https://blindcomputing.org/tags">speakup</category>
     </item>
     
     <item>
@@ -112,6 +167,14 @@ server,&lt;/p&gt;</description>
       
       <guid>https://blindcomputing.org/device-comparisons/braillenote-touch-vs-esytime-before-hands-on/</guid>
       <description>A comparison (before hands-on) between Humanware&amp;rsquo;s Braillenote Touch and Eurobraille&amp;rsquo;s Esytime. Originally personal notes I created.</description>
+      <category>device-comparisons</category>
+      <category domain="https://blindcomputing.org/categories">devices</category>
+      <category domain="https://blindcomputing.org/tags">braille</category>
+      <category domain="https://blindcomputing.org/tags">braillenote</category>
+      <category domain="https://blindcomputing.org/tags">comparison</category>
+      <category domain="https://blindcomputing.org/tags">eurobraille</category>
+      <category domain="https://blindcomputing.org/tags">humanware</category>
+      <category domain="https://blindcomputing.org/tags">notetakers</category>
     </item>
     
     <item>
@@ -121,6 +184,14 @@ server,&lt;/p&gt;</description>
       
       <guid>https://blindcomputing.org/device-comparisons/braillenote-touch-vs-esytime-after-hands-on/</guid>
       <description>A comparison (after hands-on) between Humanware&amp;rsquo;s Braillenote Touch and Eurobraille&amp;rsquo;s Esytime. This is the second article in a two part series.</description>
+      <category>device-comparisons</category>
+      <category domain="https://blindcomputing.org/categories">devices</category>
+      <category domain="https://blindcomputing.org/tags">braille</category>
+      <category domain="https://blindcomputing.org/tags">braillenote</category>
+      <category domain="https://blindcomputing.org/tags">comparison</category>
+      <category domain="https://blindcomputing.org/tags">eurobraille</category>
+      <category domain="https://blindcomputing.org/tags">humanware</category>
+      <category domain="https://blindcomputing.org/tags">notetakers</category>
     </item>
     
     <item>
@@ -131,6 +202,14 @@ server,&lt;/p&gt;</description>
       <guid>https://blindcomputing.org/linux/ubuntu-17.10/</guid>
       <description>It was the talk of the town when it came out! The new vision of Canonical, releasing there latest version of ubuntu (17.10) with &amp;hellip; the Gnome desktop? Running using wayland? Anyway, since this is a rather big change, we&amp;rsquo;ll go over the accessibility features of this new release so that anyone upgrading to 17.10, or to 18.04 when it comes out, will have a smooth transition.
   </description>
+      <category>linux</category>
+      <category domain="https://blindcomputing.org/categories">operating-systems</category>
+      <category domain="https://blindcomputing.org/tags">accessibility</category>
+      <category domain="https://blindcomputing.org/tags">gnome</category>
+      <category domain="https://blindcomputing.org/tags">Linux</category>
+      <category domain="https://blindcomputing.org/tags">orca</category>
+      <category domain="https://blindcomputing.org/tags">review</category>
+      <category domain="https://blindcomputing.org/tags">ubuntu</category>
     </item>
     
     <item>
@@ -140,6 +219,11 @@ server,&lt;/p&gt;</description>
       
       <guid>https://blindcomputing.org/apple/mac-os-10.12-sierra/</guid>
       <description>Lots of blind and visually impaired people already know that apple has been designing their products with amazing accessibility built right in, ever since 2005 when mac os 10.4 tiger was released and the feature set has continued to grow over the years. But for those who aren&amp;rsquo;t up to speed, or who are looking to buy a mac but not sure if they can justify the extortionate price tag, this video will show you the main accessibility features of macOS I use and why I prefer Apple&amp;rsquo;s VoiceOver screenreader over any other.</description>
+      <category>apple</category>
+      <category domain="https://blindcomputing.org/categories">operating-systems</category>
+      <category domain="https://blindcomputing.org/tags">Apple</category>
+      <category domain="https://blindcomputing.org/tags">macOS</category>
+      <category domain="https://blindcomputing.org/tags">VoiceOver</category>
     </item>
     
     <item>
@@ -152,6 +236,15 @@ server,&lt;/p&gt;</description>
 Actually, the answer looks very promising
 here&amp;rsquo;s a quick video showing the accessibility features of ubuntu mate 16.04 lts.
   </description>
+      <category>linux</category>
+      <category domain="https://blindcomputing.org/categories">operating-systems</category>
+      <category domain="https://blindcomputing.org/tags">accessibility</category>
+      <category domain="https://blindcomputing.org/tags">compiz</category>
+      <category domain="https://blindcomputing.org/tags">Linux</category>
+      <category domain="https://blindcomputing.org/tags">mate</category>
+      <category domain="https://blindcomputing.org/tags">orca</category>
+      <category domain="https://blindcomputing.org/tags">review</category>
+      <category domain="https://blindcomputing.org/tags">ubuntu</category>
     </item>
     
     <item>
@@ -161,6 +254,16 @@ here&amp;rsquo;s a quick video showing the accessibility features of ubuntu mate
       
       <guid>https://blindcomputing.org/linux/state-of-accessibility/</guid>
       <description>This article documents the state of Linux accessibility when using a graphical desktop. I try to keep this article as current as possible.</description>
+      <category>linux</category>
+      <category domain="https://blindcomputing.org/categories">operating-systems</category>
+      <category domain="https://blindcomputing.org/tags">accessibility</category>
+      <category domain="https://blindcomputing.org/tags">compiz</category>
+      <category domain="https://blindcomputing.org/tags">gnome</category>
+      <category domain="https://blindcomputing.org/tags">gui</category>
+      <category domain="https://blindcomputing.org/tags">Linux</category>
+      <category domain="https://blindcomputing.org/tags">mate</category>
+      <category domain="https://blindcomputing.org/tags">orca</category>
+      <category domain="https://blindcomputing.org/tags">xfce</category>
     </item>
     
   </channel>
