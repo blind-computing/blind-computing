@@ -6,7 +6,9 @@ draft: false
 
 Apple is well-known in the blind / VI tech community for providing
 excellent assistive technologies, baked right in to all of their
-products. Some love them for their ease of use, workflow and even bundled
+products.
+<!--more-->
+Some love them for their ease of use, workflow and even bundled
 apps like iLife; others criticise Apple products as being locked down
 and tightly integrated with Apple's ecosystem.
 
