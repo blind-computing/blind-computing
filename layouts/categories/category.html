@@ -4,22 +4,9 @@
 {{ .Content }}
 <hr />
 {{ with .Pages }}
-<section aria-label="Articles in This Category">
+<section class="card-deck" aria-label="Sections in this category">
   {{ range .GroupBy "Section" }}
-  <section aria-labelledby="{{ .Key }}-title">
-    <a href="/{{ .Key }}">
-        <h2 id="{{ .Key }}-title">
-      {{ with $.Site.GetPage "section" .Key }}
-  {{.Title}}
-      {{ else }}
-      {{ .Key | title }}
-      {{ end }} 
-        </h2>
-    </a>
-  <div class="card-deck">
-      {{ range .Pages }} {{ partial "post-card.html" . }} {{ end }}
-  </div>
-</section>
+  {{- partial "section-card.html" ($.Site.GetPage "section" .Key) -}}
   {{ end }}
 </section>
 {{ else }}
