@@ -4,8 +4,13 @@ date: 2020-04-15T21:23:50+01:00
 draft: false
 ---
 
+<<<<<<< HEAD
 Commonly referred to as simply _Linux,_ GNU / Linux is a collection of projects that come together to form a
-customisable, flexible and most importantly free and open source ecosystem of operating systems.
+=======
+Commonly referred to as simply _Linux,_ GNU / Linux is a collection of projects that come together to form a
+
+> > > > > > > dc2f0ea9fc71639ed90a2ad45e4c0965e75370e3
+> > > > > > > customisable, flexible and most importantly free and open source ecosystem of operating systems.
 
 <!--more-->
 
