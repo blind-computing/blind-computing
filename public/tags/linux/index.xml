@@ -1,17 +1,13 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Linux on Blind Computing</title>
+    <title>linux on Blind Computing</title>
     <link>https://blindcomputing.org/tags/linux/</link>
-    <description>Recent content in Linux on Blind Computing</description>
+    <description>Recent content in linux on Blind Computing</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright © 2020 the Blind Computing Team. This project is licensed under the GNU AGPL, version 3.0 or later.</copyright>
-    <lastBuildDate>Tue, 02 Jul 2019 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://blindcomputing.org/tags/linux/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sat, 14 Nov 2020 16:34:18 +0000</lastBuildDate><atom:link href="https://blindcomputing.org/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>What is Linux?</title>
       <link>https://blindcomputing.org/linux/what-is-linux/</link>
@@ -21,6 +17,18 @@
       <description>&lt;p&gt;If you&amp;rsquo;re new round here, you&amp;rsquo;re probably asking, at almost every page
 you visit, &amp;ldquo;What in the actual world is linux?&amp;rdquo; In this article, I hope
 to shed some light on Linux, its community and its philosophy.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Blindarch - An Accessible Arch Linux Installer / Live CD</title>
+      <link>https://blindcomputing.org/linux/blindarch/</link>
+      <pubDate>Sat, 14 Nov 2020 16:34:18 +0000</pubDate>
+      
+      <guid>https://blindcomputing.org/linux/blindarch/</guid>
+      <description>A project based on Talking Arch to create an ArchLinux live + install CD for blind and visually impaired
+users. Also offers an easy to use installer
+to allow users to set up a completely accessible and customisable arch
+linux installation.</description>
     </item>
     
     <item>

@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright © 2020 the Blind Computing Team. This project is licensed under the GNU AGPL, version 3.0 or later.</copyright>
-    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0100</lastBuildDate>
-    
-	<atom:link href="https://blindcomputing.org/tags/eurobraille/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Sun, 01 Apr 2018 00:00:00 +0100</lastBuildDate><atom:link href="https://blindcomputing.org/tags/eurobraille/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Braillenote Touch vs Esytime - Part 1</title>
       <link>https://blindcomputing.org/device-comparisons/braillenote-touch-vs-esytime-before-hands-on/</link>

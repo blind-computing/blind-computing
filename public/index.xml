@@ -34,6 +34,23 @@ to shed some light on Linux, its community and its philosophy.&lt;/p&gt;</descri
     </item>
     
     <item>
+      <title>Blindarch - An Accessible Arch Linux Installer / Live CD</title>
+      <link>https://blindcomputing.org/linux/blindarch/</link>
+      <pubDate>Sat, 14 Nov 2020 16:34:18 +0000</pubDate>
+      
+      <guid>https://blindcomputing.org/linux/blindarch/</guid>
+      <description>A project based on Talking Arch to create an ArchLinux live + install CD for blind and visually impaired
+users. Also offers an easy to use installer
+to allow users to set up a completely accessible and customisable arch
+linux installation.</description>
+      <category>linux</category>
+      <category domain="https://blindcomputing.org/categories">downloads</category>
+      <category domain="https://blindcomputing.org/tags">arch</category>
+      <category domain="https://blindcomputing.org/tags">linux</category>
+      <category domain="https://blindcomputing.org/tags">orca</category>
+    </item>
+    
+    <item>
       <title>The Webbie Web Browser and Accessible Applications</title>
       <link>https://blindcomputing.org/software-showcase/webbie/</link>
       <pubDate>Sat, 18 Apr 2020 18:24:11 +0100</pubDate>

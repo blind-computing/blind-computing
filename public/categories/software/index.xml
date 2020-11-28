@@ -7,11 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-gb</language>
     <copyright>Copyright © 2020 the Blind Computing Team. This project is licensed under the GNU AGPL, version 3.0 or later.</copyright>
-    <lastBuildDate>Wed, 15 Apr 2020 17:22:29 +0100</lastBuildDate>
-    
-	<atom:link href="https://blindcomputing.org/categories/software/index.xml" rel="self" type="application/rss+xml" />
-    
-    
+    <lastBuildDate>Wed, 15 Apr 2020 17:22:29 +0100</lastBuildDate><atom:link href="https://blindcomputing.org/categories/software/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Webbie Web Browser and Accessible Applications</title>
       <link>https://blindcomputing.org/software-showcase/webbie/</link>

@@ -33,6 +33,36 @@
   </url>
   
   <url>
+    <loc>https://blindcomputing.org/tags/arch/</loc>
+    <lastmod>2020-11-14T16:34:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/linux/blindarch/</loc>
+    <lastmod>2020-11-14T16:34:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/categories/</loc>
+    <lastmod>2020-11-14T16:34:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/linux/</loc>
+    <lastmod>2020-11-14T16:34:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/orca/</loc>
+    <lastmod>2020-11-14T16:34:18+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://blindcomputing.org/tags/</loc>
+    <lastmod>2020-11-14T16:34:18+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://blindcomputing.org/apple/</loc>
     <lastmod>2020-05-29T19:49:26+01:00</lastmod>
   </url>
@@ -43,18 +73,8 @@
   </url>
   
   <url>
-    <loc>https://blindcomputing.org/categories/</loc>
-    <lastmod>2020-05-29T19:38:15+01:00</lastmod>
-  </url>
-  
-  <url>
     <loc>https://blindcomputing.org/tags/overview/</loc>
     <lastmod>2020-04-18T18:24:11+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blindcomputing.org/tags/</loc>
-    <lastmod>2020-05-29T19:38:15+01:00</lastmod>
   </url>
   
   <url>
@@ -104,16 +124,6 @@
   
   <url>
     <loc>https://blindcomputing.org/linux/debian-9-stretch-xfce/</loc>
-    <lastmod>2020-05-29T18:57:33+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blindcomputing.org/tags/linux/</loc>
-    <lastmod>2020-05-29T19:13:14+01:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://blindcomputing.org/tags/orca/</loc>
     <lastmod>2020-05-29T18:57:33+01:00</lastmod>
   </url>
   
