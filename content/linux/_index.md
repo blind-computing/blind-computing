@@ -1,10 +1,10 @@
 ---
-title: 'GNU / Linux'
+title: "GNU / Linux"
 date: 2020-04-15T21:23:50+01:00
 draft: false
 ---
 
-Commonly referred to as simply *Linux,* GNU / Linux is a collection of projects that come together to form a
+Commonly referred to as simply _Linux,_ GNU / Linux is a collection of projects that come together to form a
 customisable, flexible and most importantly free and open source ecosystem of operating systems.
 
 <!--more-->
@@ -17,5 +17,5 @@ tricks and how tos on how to set up and use these tools on various Linux distrib
 
 ## Want to Find Out More About Linux?
 
-Some of the concepts of *Linux*, *GNU* and the *Open Source* Ecosystem are relatively hard to grasp at first, so I wrote
-\[an article\]({{\< relref "what-is-linux.md" \>}}) that goes into greater detail.
+Some of the concepts of _Linux_, _GNU_ and the _Open Source_ Ecosystem are relatively hard to grasp at first, so I wrote
+[an article]({{< relref "what-is-linux.md" >}}) that goes into greater detail.
