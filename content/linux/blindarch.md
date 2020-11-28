@@ -9,6 +9,11 @@ tags:
   - arch
   - orca
 draft: false
+summary: |
+  A project based on Talking Arch to create an ArchLinux live + install CD for blind and visually impaired
+  users. Also offers an easy to use installer
+  to allow users to set up a completely accessible and customisable arch
+  linux installation.
 ---
 
 [Download latest release](https://downloads.blindcomputing.org/blindarch/BlindArch-2020.11.28-x86_64.iso)
