@@ -12,8 +12,6 @@ scripts, programs, operating systems and any other files you can think
 of to help the blind and visually impaired throughout their computing
 journey.
 
-**Note:** Some of the software on this page was **not created by the
-contributors of Blind Computing**. All credit goes to the creaters and
-maintainers of the software. Also, all of the files below are to be used
-at you\'re own risk and we can not assume any responsibility if
-something goes wrong.
+**Note:** Some of the software on this page **may not be created by the contributors of Blind Computing**. All credit
+goes to the creaters and maintainers of the software. Also, all of the files below are to be used at you\'re own risk
+and we can not assume any responsibility if something goes wrong.
