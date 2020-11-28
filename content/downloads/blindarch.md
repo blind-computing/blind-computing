@@ -1,9 +1,7 @@
 ---
-title: "Blindarch - An Accessible Arch Linux Installer / Live CD"
+title: "BlindArch - An Accessible Arch Linux Installer / Live CD"
 author: TheFake VIP and JDF
 date: 2020-11-14T16:34:18Z
-categories:
-  - downloads
 tags:
   - linux
   - arch
