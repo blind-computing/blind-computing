@@ -1,10 +1,6 @@
 [submodule "static/dynamitab"]
 	path = static/dynamitab
 	url = https://gitlab.com/mcb2003/dynamitab.git
-[submodule "static/public"]
-	path = static/public
-	url = https://github.com/blind-computing/bc-site
-	branch = main
 [submodule "public"]
 	path = public
 	url = https://github.com/blind-computing/bc-site.git
