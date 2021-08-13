@@ -5,6 +5,7 @@ set -e
 MSG="$(git log -1 --format=%f)"
 hugo # build site
 cd public
+git submodule update --init
 git add .
 git commit -m "Regenerate site: $MSG"
 git push origin main # Deploy
