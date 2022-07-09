@@ -31,7 +31,7 @@ jobs:
           personal_token: ${{ secrets.TOKEN }}
           external_repository: blind-computing/blind-computing.github.io
           publish_dir: ./public
-          empty_commits: false
+          allow_empty_commit: false
           user_name: github-actions
           user_email: actions@github.com
           publish_branch: main
